@@ -1,1 +1,1 @@
-# [asd](bazabet-github.io)
+# bazabet-github.io
